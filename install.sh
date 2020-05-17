@@ -35,6 +35,8 @@ chmod 666 tun
 echo 'Setup key:'
 echo ''
 pritunl setup-key
+echo 'enter the key above and wait to the next step'
+pause
 echo 'First-time key:'
 echo ''
 pritunl default-password
